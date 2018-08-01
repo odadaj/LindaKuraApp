@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Linda Kura</string>
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="no_location_detected"> No location detected. Make sure location is enabled on the device. </string>
+    <string name="permission_rationale">Location permission is needed to enhance functionality</string>
+    <string name="permission_rationalex">Camera permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Location permission was denied, but is needed to enhance functionality.</string>
+    <string name="permission_denied_explanationx">Camera permission was denied but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="lindaslogan">Securing Democracy through Crowd-Sourcing</string>
+    <string name="copyright">www.tallythis.org - @techindem</string>
+    <string name="lindabrand">Linda Kura</string>
+    <string name="buttonmsg">Confirm Polling Station</string>
+    <string name="camera_button">&#xf030; Take Picture</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
